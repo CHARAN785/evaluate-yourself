@@ -89,4 +89,8 @@ This project is released under the terms of the MIT License. See `LICENSE` for d
 
 The following diagram shows the database design of the AI Self-Evaluation Platform.
 
+<<<<<<< HEAD
 ![ER Diagram](./docs/images/erd-diagram.png)
+=======
+![ER Diagram](./docs/images/erd-diagram.png?raw=true)
+>>>>>>> 7db59b3 (Fix ER diagram image path)
