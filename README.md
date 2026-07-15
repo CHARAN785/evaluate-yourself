@@ -89,4 +89,4 @@ This project is released under the terms of the MIT License. See `LICENSE` for d
 
 The following diagram shows the database design of the AI Self-Evaluation Platform.
 
-![ER Diagram](https://raw.githubusercontent.com/ignitzsolutions/evaluate-yourself/main/docs/images/erd-diagram.png)
+![ER Diagram](docs/images/erd-%20diagram.png)
